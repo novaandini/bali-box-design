@@ -8,3 +8,9 @@
   <li>Dwiari https://github.com/dwiarimutia</li>
   <li>Dian https://github.com/Dian1226</li>
 </ol>
+<h2>Demo</h2>
+<p>Demo dari website Bali Box Design dapat dilihat pada link berikut https://novaandini.github.io/bali-box-design/</p>
+
+
+https://github.com/novaandini/bali-box-design/assets/144865537/6ea7408e-8d02-4340-bc33-0dca45091cf4
+
